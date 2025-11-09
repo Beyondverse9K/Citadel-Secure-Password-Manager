@@ -33,7 +33,7 @@
 
 Secure Vault Storage: The application saves all credential data to a single encrypted file named vault.db.
 
-Credential Management: You can perform full CRUD (Create, Read, Update, Delete) operations on your passwords.
+Credential Management: You can perform full Create, Read and Delete operations on your passwords.
 
 Password Generation: There's a feature to generate strong, 20-character random passwords using a wide character set for enhanced security.
 
